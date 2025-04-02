@@ -53,7 +53,7 @@ JavaSpringAPI/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/JavaSpringAPI.git
+   git clone https://github.com/RobertoBorges/JavaSpringAPI.git
    cd JavaSpringAPI/sample
    ```
 
