@@ -68,6 +68,7 @@
 				<version>1.61.5</version>
 				<executions>
 					<execution>
+						<?m2e execute onConfiguration,onIncremental?>
 						<id>dgs-codegen</id>
 						<goals>
 							<goal>generate</goal>
